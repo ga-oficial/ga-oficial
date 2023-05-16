@@ -1,5 +1,4 @@
-
-# 💫 About Me:
+🙋Gabriel Correia 
 sou Gabriel correia estou no Sesi Senai desde do 1 ano, <br>nasci dia 09 de maio de 2005 e estou atualmente morando <br>no Brasil.  <br>
 
 
@@ -16,7 +15,7 @@ sou Gabriel correia estou no Sesi Senai desde do 1 ano, <br>nasci dia 09 de maio
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ga-oficial&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### 💌 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
